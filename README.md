@@ -1,4 +1,3 @@
-repo root/
-└── LivestockTracking/
-    ├── Cargo.toml
-    └── src/
+# LivestockTracking
+
+Project structure:

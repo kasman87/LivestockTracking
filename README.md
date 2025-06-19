@@ -1,3 +1,3 @@
-LivestockTracking/
+
 ├── Cargo.toml
 ├── src/
